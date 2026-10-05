@@ -1,0 +1,27 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Node.js dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Build output
+dist/
+
+.venv/
+venv/
+node_modules/
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+dist/
